@@ -1,0 +1,15 @@
+body {
+    text-align: center;     
+    padding-top: 200px;
+    background-color: black;    
+    color: orange;
+}
+
+h1 {
+    border-style: inset 
+}
+
+p {
+    font-size: 20px;
+    
+}
