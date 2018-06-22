@@ -1,0 +1,10 @@
+h1 {
+    text-align: center;     
+    font-size: 36px;
+    background-color: greenyellow;    
+    color: white;
+};
+
+#game-section {
+    background-color: lightskyblue
+}
