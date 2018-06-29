@@ -1,0 +1,22 @@
+.gif-div {
+    float:left;
+    text-align:center;
+    margin: 10px;   
+}
+
+.character-button {
+    margin: 10px;
+    background-color: gray  ;
+    color: white;  
+    border-radius: 20px; 
+    padding: 12px 28px;
+}
+
+#addGif {
+    background-color: gray;
+    color: white;
+    margin-top: 5px;
+    border-radius: 20px;
+    padding: 12px 28px; 
+}
+
