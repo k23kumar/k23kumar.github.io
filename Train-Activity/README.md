@@ -1,0 +1,2 @@
+# Train-Activity
+This website alllows train riders to determine the schedule of the next train on the island of Viti Levu in Fiji. The site offers real time updates to the status of train arrivals. Simply type in which train you wish to ride and embark on your adventure in Fiji. Contact Kelvin Kumar for more information or with help with the site. 
